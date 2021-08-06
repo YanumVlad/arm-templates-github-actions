@@ -34,6 +34,6 @@ jobs:
             az group deployment validate --resource-group $RESOURCE_GROUP_TEST --template-file $GITHUB_WORKSPACE/azuredeploy.json
             az group delete --resource-group $RESOURCE_GROUP_TEST --yes --no-wait 
 
-      - name: Run Azure Resource Manager Template Toolkit
-        uses: ./.github/actions
-        id: action
+      #- name: Run Azure Resource Manager Template Toolkit
+      #  uses: ./.github/actions
+      #  id: action
