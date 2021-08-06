@@ -1,1 +1,1 @@
-# arm-templates-github-actions 3
+# arm-templates-github-actions 4
