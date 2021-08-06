@@ -1,3 +1,1 @@
-# arm-templates-github-actions
-
-Hello world
+# arm-templates-github-actions 1
